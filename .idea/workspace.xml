@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculatorQuadradoCubico/CalculatorQuadradoCubico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExerciciosConceitosBasicos/calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Imc/PessoaImc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exerciciosFundamentos/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Exercicios1">
+      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/DataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/ProdutoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/DesafioDiaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/SwitchCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +26,39 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Exercicios1" />
+                    <option name="lastUsedInstant" value="1666142957" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1666142956" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,20 +71,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CalculatorQuadradoCubico">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exerciciosFundamentos.Calculadora" />
+}</component>
+  <component name="RunManager" selected="Application.DataTeste">
+    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassesObjetos.DataTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exerciciosFundamentos.*" />
+          <option name="PATTERN" value="ClassesObjetos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorQuadradoCubico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorQuadradoCubico.CalculatorQuadradoCubico" />
+    <configuration name="DesafioDiaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasderepeticao.DesafioDiaSemana" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CalculatorQuadradoCubico.*" />
+          <option name="PATTERN" value="estruturasderepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaImc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Imc.PessoaImc" />
+    <configuration name="IfElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasderepeticao.IfElseIf" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Imc.*" />
+          <option name="PATTERN" value="estruturasderepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosConceitosBasicos.calculator" />
+    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassesObjetos.ProdutoTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosConceitosBasicos.*" />
+          <option name="PATTERN" value="ClassesObjetos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasderepeticao.SwitchCase" />
+      <module name="FundamentosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasderepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,10 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorQuadradoCubico" />
-        <item itemvalue="Application.PessoaImc" />
-        <item itemvalue="Application.calculator" />
-        <item itemvalue="Application.Calculadora" />
+        <item itemvalue="Application.DataTeste" />
+        <item itemvalue="Application.ProdutoTeste" />
+        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.DesafioDiaSemana" />
+        <item itemvalue="Application.IfElseIf" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +163,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666130179902</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercicios1">
+      <created>1666143075298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666143075298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,10 +178,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicios1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios1" />
   </component>
 </project>
