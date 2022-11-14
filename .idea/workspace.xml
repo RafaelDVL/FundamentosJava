@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Exercicios1">
-      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/DataTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/ProdutoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/DesafioDiaSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estruturasderepeticao/SwitchCase.java" afterDir="false" />
+    <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Classes">
+      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/AreaCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/AreaCircleTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioModulo3/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioModulo3/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesafioModulo3/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +25,7 @@
     <branch-grouping />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Exercicios1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +39,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Classes" />
+                    <option name="lastUsedInstant" value="1667697906" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="Exercicios1" />
                     <option name="lastUsedInstant" value="1666142957" />
@@ -78,7 +78,7 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DataTeste">
+  <component name="RunManager" selected="Application.Jantar">
     <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClassesObjetos.DataTeste" />
       <module name="FundamentosJava" />
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasderepeticao.IfElseIf" />
+    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioModulo3.Jantar" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasderepeticao.*" />
+          <option name="PATTERN" value="DesafioModulo3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jantar" />
         <item itemvalue="Application.DataTeste" />
         <item itemvalue="Application.ProdutoTeste" />
         <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.DesafioDiaSemana" />
-        <item itemvalue="Application.IfElseIf" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666143075298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Classes">
+      <created>1667697948401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667697948401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +191,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="Classes" />
                       </list>
                     </value>
                   </entry>
@@ -198,6 +205,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicios1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicios1" />
+    <MESSAGE value="Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes" />
   </component>
 </project>
