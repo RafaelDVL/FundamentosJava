@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Classes">
-      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/AreaCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassesObjetos/AreaCircleTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioModulo3/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioModulo3/Jantar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesafioModulo3/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/Arrays1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,13 +74,13 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Jantar">
-    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassesObjetos.DataTeste" />
+  <component name="RunManager" selected="Application.Arrays1">
+    <configuration name="Arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysCollections.Arrays1" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClassesObjetos.*" />
+          <option name="PATTERN" value="ArraysCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioDiaSemana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasderepeticao.DesafioDiaSemana" />
+    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassesObjetos.DataTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasderepeticao.*" />
+          <option name="PATTERN" value="ClassesObjetos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays1" />
         <item itemvalue="Application.Jantar" />
         <item itemvalue="Application.DataTeste" />
         <item itemvalue="Application.ProdutoTeste" />
         <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.DesafioDiaSemana" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667697948401</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Classes">
+      <created>1668436809730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668436809730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +194,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Classes" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
