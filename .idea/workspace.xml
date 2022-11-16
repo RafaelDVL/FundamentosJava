@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Classes">
-      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/DesafioArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/Matrizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EqualseHashcode/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EqualseHashcode/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysCollections/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysCollections/Arrays1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Matrizes">
+  <component name="RunManager" selected="Application.EqualsHashcode">
     <configuration name="Arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysCollections.Arrays1" />
       <module name="FundamentosJava" />
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysCollections.ForEach" />
+    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualseHashcode.Equals" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysCollections.*" />
+          <option name="PATTERN" value="EqualseHashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jantar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesafioModulo3.Jantar" />
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysCollections.ForEach" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesafioModulo3.*" />
+          <option name="PATTERN" value="ArraysCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsHashcode" />
         <item itemvalue="Application.Matrizes" />
         <item itemvalue="Application.DesafioArrays" />
         <item itemvalue="Application.ForEach" />
         <item itemvalue="Application.Arrays1" />
-        <item itemvalue="Application.Jantar" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668528308325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Classes">
+      <created>1668561381756</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668561381756</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
