@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Classes">
-      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/Arrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/DesafioArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysCollections/Matrizes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysCollections/Arrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysCollections/Arrays1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +77,7 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Arrays1">
+  <component name="RunManager" selected="Application.Matrizes">
     <configuration name="Arrays1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysCollections.Arrays1" />
       <module name="FundamentosJava" />
@@ -88,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassesObjetos.DataTeste" />
+    <configuration name="DesafioArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysCollections.DesafioArrays" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClassesObjetos.*" />
+          <option name="PATTERN" value="ArraysCollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysCollections.ForEach" />
+      <module name="FundamentosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,25 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProdutoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassesObjetos.ProdutoTeste" />
+    <configuration name="Matrizes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysCollections.Matrizes" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClassesObjetos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasderepeticao.SwitchCase" />
-      <module name="FundamentosJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturasderepeticao.*" />
+          <option name="PATTERN" value="ArraysCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matrizes" />
+        <item itemvalue="Application.DesafioArrays" />
+        <item itemvalue="Application.ForEach" />
         <item itemvalue="Application.Arrays1" />
         <item itemvalue="Application.Jantar" />
-        <item itemvalue="Application.DataTeste" />
-        <item itemvalue="Application.ProdutoTeste" />
-        <item itemvalue="Application.SwitchCase" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668436809730</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Classes">
+      <created>1668528308325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668528308325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
