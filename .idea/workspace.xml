@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Classes">
-      <change afterPath="$PROJECT_DIR$/src/Collections/ConjuntoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ConjuntoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ConjuntoSetComportado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Fila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Hash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ListUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Mapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Pilha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,9 +80,9 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConjuntoSet">
-    <configuration name="ConjuntoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ConjuntoSet" />
+  <component name="RunManager" selected="Application.Hash">
+    <configuration name="ConjuntoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ConjuntoList" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesafioArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysCollections.DesafioArrays" />
+    <configuration name="Fila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Fila" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysCollections.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EqualseHashcode.Equals" />
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Hash" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EqualseHashcode.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysCollections.ForEach" />
+    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Mapa" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysCollections.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrizes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysCollections.Matrizes" />
+    <configuration name="Pilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Pilha" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysCollections.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConjuntoSet" />
-        <item itemvalue="Application.EqualsHashcode" />
-        <item itemvalue="Application.Matrizes" />
-        <item itemvalue="Application.DesafioArrays" />
-        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.Hash" />
+        <item itemvalue="Application.Mapa" />
+        <item itemvalue="Application.Pilha" />
+        <item itemvalue="Application.Fila" />
+        <item itemvalue="Application.ConjuntoList" />
       </list>
     </recent_temporary>
   </component>
