@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063c0260-ec4e-4284-be06-708b961cc9d6" name="Changes" comment="Classes">
-      <change afterPath="$PROJECT_DIR$/src/Collections/ConjuntoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ConjuntoSetComportado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Fila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ListUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Mapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/CarroTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/CursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/desafiocomposicao/CarrinhoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/desafiocomposicao/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/desafiocomposicao/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/desafiocomposicao/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/desafiocomposicao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/muitosparamuitos/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/muitosparamuitos/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/muitosparamuitos/CursoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/umparamuitos/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/umparamuitos/CompraTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composição/umparamuitos/Item.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,13 +90,13 @@
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Hash">
-    <configuration name="ConjuntoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ConjuntoList" />
+  <component name="RunManager" selected="Application.CarrinhoTeste">
+    <configuration name="CarrinhoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composição.desafiocomposicao.CarrinhoTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="composição.desafiocomposicao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Fila" />
+    <configuration name="CarroTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composição.CarroTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="composição.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Hash" />
+    <configuration name="CompraTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composição.umparamuitos.CompraTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="composição.umparamuitos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mapa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Mapa" />
+    <configuration name="CursoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composição.CursoTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="composição.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pilha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Pilha" />
+    <configuration name="composição.muitosparamuitos.CursoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="composição.muitosparamuitos.CursoTeste" />
       <module name="FundamentosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.*" />
+          <option name="PATTERN" value="composição.muitosparamuitos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hash" />
-        <item itemvalue="Application.Mapa" />
-        <item itemvalue="Application.Pilha" />
-        <item itemvalue="Application.Fila" />
-        <item itemvalue="Application.ConjuntoList" />
+        <item itemvalue="Application.CarrinhoTeste" />
+        <item itemvalue="Application.composição.muitosparamuitos.CursoTeste" />
+        <item itemvalue="Application.CompraTeste" />
+        <item itemvalue="Application.CursoTeste" />
+        <item itemvalue="Application.CarroTeste" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668616277941</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Classes">
+      <created>1669128062754</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669128062755</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
